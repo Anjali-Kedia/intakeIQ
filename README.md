@@ -4,7 +4,7 @@
 **Scenario C — The Second-Hand Electronics Market.**
 
 ## Problem I chose to address
-The most important problem is inconsistent, poorly evidenced device intake. The business loses money when staff miss faults, overpay, or cannot explain why two similar devices have different prices. I focused on the first 15 minutes of intake because that is when the business accepts financial risk before the seller leaves.
+The issue I address here is inconsistent, poorly evidenced device intake. The business loses money when staff miss faults, overpay, or cannot explain why two similar devices have different prices. I focused on the first 15 minutes of intake because that is when the business accepts financial risk before the seller leaves.
 
 ## Primary user
 The primary user is a store employee inspecting an incoming used phone, laptop, or tablet. Secondary users are the owner, who reviews exceptions; the technician, who evaluates repair upside; and the customer, who needs a clear condition-based pricing explanation.
@@ -39,7 +39,7 @@ Returned devices feed insights back into future inspections
 The product deliberately separates the app’s recommendation from the actual business outcome. That keeps human judgement visible instead of pretending automation is always right.
 
 ## How to run or view it
-Deployed app: `<add Vercel URL here>`
+Deployed app: `https://intake-iq-beta.vercel.app`
 
 ```bash
 npm install
