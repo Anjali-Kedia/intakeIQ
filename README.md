@@ -58,7 +58,6 @@ This submission includes:
 - A runnable Next.js repository.
 - A functional local prototype with guided interactions.
 - A 3–5 minute screen recording submitted separately.
-- `PRODUCT_BRIEF.md` as optional supporting product reasoning.
 
 ## What I would do with five additional hours
 - Add owner-configurable pricing and risk rules.
