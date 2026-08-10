@@ -1,4 +1,5 @@
 # IntakeIQ — SwaVid Product Engineering Take-Home
+ Submission by: Anjali Kedia
 
 ## Which scenario I selected
 **Scenario C — The Second-Hand Electronics Market.**
