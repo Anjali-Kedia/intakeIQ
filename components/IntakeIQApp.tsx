@@ -263,6 +263,7 @@ export default function IntakeIQApp() {
         <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div>
             <p className="text-xs font-black uppercase tracking-[0.2em] text-amber">SwaVid take-home · Scenario C</p>
+            <p className="mt-2 text-sm font-bold text-white/60">Task submission: Anjali Kedia</p>
             <h1 className="mt-2 text-5xl font-black tracking-[-0.075em] md:text-7xl">IntakeIQ</h1>
             <p className="mt-3 max-w-2xl text-lg leading-8 text-white/72">
               A guided intake operating system: decide, document, repair, sell, and learn from returns.
@@ -639,7 +640,7 @@ function IntakeForm({
           <textarea value={draft.sellerClaim} onChange={(event) => onChange("sellerClaim", event.target.value)} rows={4} className="premium-input mt-4" placeholder="What did the seller claim about condition, repairs, battery, or urgency?" />
         </div>
 
-        <div className="sticky bottom-4 z-10 rounded-[1.5rem] border border-line bg-[#102a22]/95 p-4 shadow-soft backdrop-blur md:flex md:items-center md:justify-between">
+        <div className="rounded-[1.5rem] border border-line bg-[#102a22] p-4 shadow-soft md:flex md:items-center md:justify-between">
           <div><strong className="text-white">Ready for guided inspection</strong><p className="mt-1 text-sm text-white/65">Next: checks plus evidence capture for defensible grading.</p></div>
           <PrimaryButton type="submit" className="mt-4 !bg-white !text-brand md:mt-0">Continue to inspection</PrimaryButton>
         </div>
